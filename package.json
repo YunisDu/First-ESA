@@ -1,0 +1,29 @@
+{
+  "name": "work-log-statistics-system",
+  "version": "1.0.0",
+  "description": "基于Web的轻量级日志管理工具",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build needed for static HTML'"
+  },
+  "keywords": [
+    "work-log",
+    "statistics",
+    "web-app",
+    "front-end"
+  ],
+
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
